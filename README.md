@@ -23,4 +23,4 @@
 
 </div>  
 
- ![Snake animation](https://github.com/brunomunao/brunomunao/blob/output/github-contribution-grid-snake.svg)  
+ <!-- ![Snake animation](https://github.com/brunomunao/brunomunao/blob/output/github-contribution-grid-snake.svg)  --!>
