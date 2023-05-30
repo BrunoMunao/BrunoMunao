@@ -1,7 +1,16 @@
 ## Hello, how are you? I'm Bruno de Avila
 ### Back-end Developer specializing in C# .NET!
 
-Currently, I'm delving into my studies on SQL and also exploring Front-end technologies such as Angular and React
+Currently, I'm delving into my studies on SQL and also exploring Front-end technologies such as Angular and React!
+
+Here are some of the main technologies I work with:
+
+- SQL Server
+- C#
+- .NET
+- APIs
+
+Feel free to explore my projects and don't hesitate to reach out if you have any questions or collaboration opportunities!
 
  <div align="center">
 
