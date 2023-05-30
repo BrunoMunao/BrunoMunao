@@ -1,7 +1,7 @@
-### Olá! Sou Bruno de Avila
+## Hello, how are you? I'm Bruno de Avila
+### Back-end Developer specializing in C# .NET!
 
-- 🔭 Sou Cientista da Computação pela Universidade de Caxias do Sul!
-- 🌱 Atualmente estudando C# (.NET)
+Currently, I'm delving into my studies on SQL and also exploring Front-end technologies such as Angular and React
 
  <div align="center">
 
@@ -14,6 +14,9 @@
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="brunomunao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="brunomunao-dot-net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="brunomunao-dot-net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="brunomunao-dot-net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="brunomunao-dot-net" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   
   
   ##
